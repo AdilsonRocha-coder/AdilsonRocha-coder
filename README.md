@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **AdilsonRocha-coder/AdilsonRocha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,15 +16,17 @@ Here are some ideas to get you started:
 
 
 <h4>
-Hello!
+Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">!<br><br>
 You have finally discovered my Github profile.
 </h4>
-I am still learning HTML, CSS, JAVASCRIPT. Afterwards I will study PHP and Python. 
-My friends and I have developed a program to control a stock for small business (customers, products, suppliers...). This program was developed in C# and used SQLite database.
+I am still learning HTML, CSS and JAVASCRIPT. Afterwards I will study NodeJS, React, PHP and Python (not necessarily in this order). 
+My friends and I have developed a program to control a stock for small business (customers, products, suppliers...). This program was developed in C# connected to SQLite database.
 It was part of our TCC activity.
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy coding, guys! 😊
+
+Contact: piuwave@hotmail.com
 
 
 <!--  README do maykbrito
