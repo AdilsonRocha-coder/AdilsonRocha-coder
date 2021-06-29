@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello!
+You have finally discovered my Github profile.
+I am still learning HTML, CSS, JAVASCRIPT. Afterwards I will study PHP and Python. 
+My friends and I have developed a program to control a stock for small business (customers, products, suppliers...). This program was developed in C# and used SQLite database.
+It was part of our TCC activity.
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy coding, guys! 😊
